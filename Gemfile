@@ -7,3 +7,4 @@ gem "minima", "~> 2.5"
 gem "csv"
 gem "base64"
 gem 'github-pages', group: :jekyll_plugins
+gem "alembic-jekyll-theme"
